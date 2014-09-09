@@ -1,0 +1,5 @@
+//just a snippet to show how to assign a fragment.
+
+Fragment fragment = new FeedActivityFragment();
+
+//Use FragmentManager to replace the already present Fragment.
